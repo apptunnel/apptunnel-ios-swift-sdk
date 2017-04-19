@@ -2,7 +2,7 @@
   <img src="https://apptunnel.com/public/img/logo512x128.png" alt="AppTunnel iOS Swift Sdk" height="150"/>
 </p>
 
-# apptunnel-ios-swift-sdk
+# AppTunnel iOS Swift sdk
 
 _AppTunnel is a mobile A/B Testing and Feature Flags platform that helps you securely improve engagements and performance of your iOS and Android mobile apps._
 
